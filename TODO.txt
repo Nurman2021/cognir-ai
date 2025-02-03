@@ -1,0 +1,16 @@
+1. Pasang favicon                       :DONE
+2. integrasi r3f pada hero              :DONE
+3. buat section features                :DONE
+4. load ui untuk workflow               :DONE
+5  buat ui untuk section preview        :DONE
+6. footer                               :DONE
+
+#FINISHING LANDING PAGE
+1. fix responsive navbar
+2. lengkapi konten content website      :DONE   "from deepseek btw:)"
+3. add scrolling animation              :DONE
+4. fix color in navbar
+5. fix position hero text
+6. update footer layout and ui
+7. add icon to feature section
+8. add sliding tech after hero
